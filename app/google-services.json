@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "831416220141",
+    "firebase_url": "https://pos-master-d2954.firebaseio.com",
+    "project_id": "pos-master-d2954",
+    "storage_bucket": "pos-master-d2954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831416220141:android:98a59bdc9edb18b1",
+        "android_client_info": {
+          "package_name": "com.refresh.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831416220141-72i9sq16u1pspv4q12b7jraor73qr4e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-ppIVjvDLDoKXV0fRVBHb352q8BYuLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
